@@ -1,0 +1,3 @@
+[submodule "horizon-ui-chakra"]
+	path = horizon-ui-chakra
+	url = https://github.com/natalie-a-1/horizon-ui-chakra.git
